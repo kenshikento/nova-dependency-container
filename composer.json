@@ -18,6 +18,12 @@
         }
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://nova.laravel.com"
+        }
+    ],    
     "require": {
         "php": "^8.0",
         "laravel/framework": "^8.0",
